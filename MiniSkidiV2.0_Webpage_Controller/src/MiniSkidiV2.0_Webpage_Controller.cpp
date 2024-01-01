@@ -1,5 +1,3 @@
-//make sure to upload with ESP32 Dev Module selected as the board under tools>Board>ESP32 Arduino
-
 #include <Arduino.h>
 #ifdef ESP32
 #include <WiFi.h>
