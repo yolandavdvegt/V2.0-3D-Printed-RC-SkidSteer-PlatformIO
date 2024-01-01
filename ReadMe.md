@@ -1,3 +1,6 @@
+forked from ProfBoots/V2.0-3D-Printed-RC-SkidSteer but converted the Arduino project into a PlatformIO project.
+
+
 # 3D Printed RC Skidsteer aka miniskidi
 Hey everybody
 this is V2.0 of the MiniSkidi, this is a fun introduction to robotics if you dont have much experience. 
